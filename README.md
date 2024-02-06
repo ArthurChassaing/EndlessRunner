@@ -19,4 +19,4 @@ Compile the project if necessary.
 Launch the game from the Unreal Engine editor or export it to the platform of your choice.
 
 ## Controls
-Movement: Use the arrow keys or ZQSD to move the character along the track.
+Movement: Use ZQSD to move the character along the track.
