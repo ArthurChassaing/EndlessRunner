@@ -4,7 +4,9 @@ This project is an Endless Runner game created in two days using Unreal Engine 5
 
 ## Features
 Intuitive Gameplay: The player controls a character in continuous movement.
+
 Random obstacle generation: Obstacles appear randomly on the track to create a varied challenge in each playthrough.
+
 Collectibles: Coins are scattered on the track, and the player can collect them to increase their score.
 
 ## Screenshots
